@@ -1,0 +1,10 @@
+import React, {Component} from 'react';
+
+
+function Home(props){
+	return (
+		<h1>A page about Atlanta!</h1>
+	)
+}
+
+export default Home;
